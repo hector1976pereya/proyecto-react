@@ -65,7 +65,7 @@ function App() {
                 <div className="cuerpo">
                     <Row>
                         <Col className="my-4">
-                            <h1>Curso con Insccripción Abierta</h1>
+                            <h1>Curso con Insccripción Abierta pepe</h1>
                         </Col>
                     </Row>
                 </div>
